@@ -112,11 +112,11 @@ def generate_pcap_json(path, file_name):
 		es.index(index='packets_pcap_multipupose_open_close_only', doc_type='pcap_file', body=packet)
 	'''	
 	
-	with open('/home/sk-lab/Desktop/IoTproject/json/HMM/'+file_name.split('.')[0]+'.json', 'w') as outfile:
+	with open('/home/sk-lab/Desktop/IoTproject/json/test/'+file_name.split('.')[0]+'.json', 'w') as outfile:
 		json.dump(packets, outfile, sort_keys = True, indent = 4,
 				ensure_ascii = False)
 
-path = '/home/sk-lab/Desktop/IoTproject/pcaps/HMM/'
+path = '/home/sk-lab/Desktop/IoTproject/pcaps/test/'
 import os 
 for file in  os.listdir(path):
 	print file
