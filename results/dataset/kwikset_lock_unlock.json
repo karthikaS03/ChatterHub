@@ -1,0 +1,58 @@
+[
+    {
+        "packet_sequence": "145 113 129 113 138 113 121 113 146 113 122 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_unlocked"
+    },
+    {
+        "packet_sequence": "342 1185 138 113 121 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_locked"
+    },
+    {
+        "packet_sequence": "138 113 121 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_unlocked"
+    },
+    {
+        "packet_sequence": "138 113 121 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_locked"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 535 141 138 113 121 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_unlocked"
+    },
+    {
+        "packet_sequence": "145 113 129 113 138 113 121 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_locked"
+    },
+    {
+        "packet_sequence": "146 113 122 113 145 113 129",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_unlocked"
+    },
+    {
+        "packet_sequence": "113 138 113 121 113 146 113 122",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 138 113 121",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_locked"
+    },
+    {
+        "packet_sequence": "113 145 113 129 113 138 113 121 113 146 113 122",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_unlocked"
+    },
+    {
+        "packet_sequence": "113 145 113 145",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_locked"
+    },
+    {
+        "packet_sequence": "113 129 113 129 113 138 113 121 113 146 113 146 113 122 113 122",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 342 1185",
+        "sequence_label": ""
+    }
+]

@@ -1,0 +1,105 @@
+{
+    "1": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ],
+    "2": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ],
+    "3": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ],
+    "4": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ],
+    "5": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ],
+    "6": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "7": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "8": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "9": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "10": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "11": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "12": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "13": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        },
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ],
+    "14": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ]
+}

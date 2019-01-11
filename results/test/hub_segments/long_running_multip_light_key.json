@@ -1,0 +1,362 @@
+{
+    "1": [],
+    "2": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "3": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "4": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "5": [],
+    "6": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        },
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ],
+    "7": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "8": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "9": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "active"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "inactive"
+        }
+    ],
+    "10": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "active"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        }
+    ],
+    "11": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "inactive"
+        }
+    ],
+    "12": [],
+    "13": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "14": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "15": [],
+    "16": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "active"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "inactive"
+        }
+    ],
+    "17": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "18": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "19": [],
+    "20": [],
+    "21": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "22": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "23": [],
+    "24": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "25": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "26": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "27": [],
+    "28": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "open"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "open"
+        }
+    ],
+    "29": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "30": [],
+    "31": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "closed"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "closed"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "open"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "open"
+        }
+    ],
+    "32": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "33": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "closed"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "closed"
+        }
+    ],
+    "34": [],
+    "35": [],
+    "36": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "open"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "open"
+        },
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        }
+    ],
+    "37": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "38": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ]
+}

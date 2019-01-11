@@ -1,0 +1,1178 @@
+[
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "129 129 129 129 129 129 129",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "129 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "141 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 121 121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 121 121 121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "439 113 435 113 437 113 559",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 439 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "439 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "440 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113 440 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 559 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113 132 111 146 120 223 103 536 141 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 120 337 157 113 113 120 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "436 113 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113 439 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 438 113 132 111 146 120 223 103 536 141 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113 436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113 438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "439 113 439 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 132 111 146 120 223 103 536 141 438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113 438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 437 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "436 113 437 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 436 113 438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 132 111 146 120 223 103 536 141 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "435 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "436 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "436 113 559 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113 132 111 146 120 223 103 536 141 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "436 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 436 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "440 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "559 437",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "113 436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "559 132",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "111 146",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 223",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "437 113 559",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "436 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 438 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 276 113 559",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "188 113 122 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113 120 337 157 113 113 120 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "437 113 438 113 438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "437 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "440 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "438 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "439 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "115 132",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_activity_hubDisconnected"
+    },
+    {
+        "packet_sequence": "111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "127 127 121 127 115 115 115",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "111 205 202",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 121 139 289 926",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 113 113 113 127 113 1096 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "439 113 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_activity_online OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "439 113 437 113 113 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "121 437 113 113 113 121 121 121 121 121 437 113 121",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "439 113 439 113 132 111 146 111 111 120 223 103 536 141 437 113 113 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_pushed OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "121 121 121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 121 121 121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 132 111 146 120 223 103 536 141 121 121 121 121 121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 121 121 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 132",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "111 146 111 120 223 120 120 103 536 103",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "141 115",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "127 127 121 127 115 115",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_activity_online OSRAM_LIGHTIFY_Dimming_Switch_activity_hubDisconnected"
+    },
+    {
+        "packet_sequence": "111 205 290 202 927 113 121 113 113 113 113 127 113 127 127",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 120 120 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 120 157 115 113 113 113 127 127 121 115 111 205 202 113 121 127 113 290 927 113 113 113 113 121 121 120 337 157 113 120 113 113 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_activity_online OSRAM_LIGHTIFY_Dimming_Switch_activity_hubDisconnected"
+    },
+    {
+        "packet_sequence": "121 121 121 121 132 111 146 111 111 120 223 103 536 141 141 121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "559 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "141 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "141 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 1180 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 132 111 146 120 223 103 536",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "141 121 121 132 111 146 120 223 103",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "536 141 559",
+        "sequence_label": ""
+    }
+]

@@ -1,0 +1,7493 @@
+{
+    "1": [],
+    "2": [],
+    "3": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "4": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "5": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "6": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "7": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "8": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "9": [],
+    "10": [],
+    "11": [],
+    "12": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "13": [],
+    "14": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "15": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "16": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "17": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "18": [],
+    "19": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "20": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "21": [],
+    "22": [],
+    "23": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "24": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "25": [],
+    "26": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "27": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "28": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "29": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "30": [],
+    "31": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "32": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "33": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "34": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "35": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "36": [],
+    "37": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "38": [],
+    "39": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "40": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "41": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "42": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "43": [],
+    "44": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "45": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "46": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "47": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "48": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "49": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "50": [],
+    "51": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "52": [],
+    "53": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "54": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "55": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "56": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "57": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "58": [],
+    "59": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "60": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "61": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "62": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "63": [],
+    "64": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "65": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "66": [],
+    "67": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "68": [],
+    "69": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "70": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "71": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "72": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "73": [],
+    "74": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "75": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "76": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "77": [],
+    "78": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "79": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "80": [],
+    "81": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "82": [],
+    "83": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "84": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "85": [],
+    "86": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "87": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "88": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "89": [],
+    "90": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "91": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "92": [],
+    "93": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "94": [],
+    "95": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "96": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "97": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "98": [],
+    "99": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "100": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "101": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "102": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "103": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "104": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "105": [],
+    "106": [],
+    "107": [],
+    "108": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "109": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "110": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "111": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "112": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "113": [],
+    "114": [],
+    "115": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "116": [],
+    "117": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "118": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "119": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "120": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "121": [],
+    "122": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "123": [],
+    "124": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "125": [],
+    "126": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "127": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "128": [],
+    "129": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "130": [],
+    "131": [],
+    "132": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "133": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "134": [],
+    "135": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "136": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "137": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "138": [],
+    "139": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "140": [],
+    "141": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "142": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "143": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "144": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "145": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "146": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "147": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "148": [],
+    "149": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "150": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "151": [],
+    "152": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "153": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "154": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "155": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "156": [],
+    "157": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "158": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "159": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "160": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "161": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "162": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "163": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "164": [],
+    "165": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "166": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "167": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "168": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "169": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "170": [],
+    "171": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "172": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "173": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "174": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "175": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "176": [],
+    "177": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "178": [],
+    "179": [],
+    "180": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "181": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "182": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "183": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "184": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "185": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "186": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "187": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "188": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "189": [],
+    "190": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "191": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "192": [],
+    "193": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "194": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "195": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "196": [],
+    "197": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "198": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "199": [],
+    "200": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "201": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "202": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "203": [],
+    "204": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "205": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "206": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "207": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "208": [],
+    "209": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "210": [],
+    "211": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "212": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "213": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "214": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "215": [],
+    "216": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "217": [],
+    "218": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "219": [],
+    "220": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "221": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "222": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "223": [],
+    "224": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "225": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "226": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "227": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "228": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "229": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "230": [],
+    "231": [],
+    "232": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "233": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "234": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "235": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "236": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "237": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "238": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "239": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "240": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "241": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "242": [],
+    "243": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "244": [],
+    "245": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "246": [],
+    "247": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "248": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "249": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "250": [],
+    "251": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "252": [],
+    "253": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "254": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "255": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "256": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "257": [],
+    "258": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "259": [],
+    "260": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "261": [],
+    "262": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "263": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "264": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "265": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "266": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "267": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "268": [],
+    "269": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "270": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "271": [],
+    "272": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "273": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "274": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "275": [],
+    "276": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "277": [],
+    "278": [],
+    "279": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "280": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "281": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "282": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "283": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "284": [],
+    "285": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "286": [],
+    "287": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "288": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "289": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "290": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "291": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "292": [],
+    "293": [],
+    "294": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "295": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "296": [],
+    "297": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "298": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "299": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "300": [],
+    "301": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "302": [],
+    "303": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "304": [],
+    "305": [],
+    "306": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "307": [],
+    "308": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "309": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "310": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "311": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "312": [],
+    "313": [],
+    "314": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "315": [],
+    "316": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "317": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "318": [],
+    "319": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "320": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "321": [],
+    "322": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "323": [],
+    "324": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "325": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "326": [],
+    "327": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "328": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "329": [],
+    "330": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "331": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "332": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "333": [],
+    "334": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "335": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "336": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "337": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "338": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "339": [],
+    "340": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "341": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "342": [],
+    "343": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "344": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "345": [],
+    "346": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "347": [],
+    "348": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "349": [],
+    "350": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "351": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "352": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "353": [],
+    "354": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "355": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "356": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "357": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "358": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "359": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "360": [],
+    "361": [],
+    "362": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "363": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "364": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "365": [],
+    "366": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "367": [],
+    "368": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "369": [],
+    "370": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "371": [],
+    "372": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "373": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "374": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "375": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "376": [],
+    "377": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "378": [],
+    "379": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "380": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "381": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "382": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "383": [],
+    "384": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "385": [],
+    "386": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "387": [],
+    "388": [],
+    "389": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "390": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "391": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "392": [],
+    "393": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "394": [],
+    "395": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "396": [],
+    "397": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "398": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "399": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "400": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "401": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "402": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "403": [],
+    "404": [],
+    "405": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "406": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "407": [],
+    "408": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "409": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "410": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "411": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "412": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "413": [],
+    "414": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "415": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "416": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "417": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "418": [],
+    "419": [],
+    "420": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "421": [],
+    "422": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "423": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "424": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "425": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "426": [],
+    "427": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "428": [],
+    "429": [],
+    "430": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "431": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "432": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "433": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "434": [],
+    "435": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "436": [],
+    "437": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "438": [],
+    "439": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "440": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "441": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "442": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "443": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "444": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "445": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "446": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "447": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "448": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "449": [],
+    "450": [],
+    "451": [],
+    "452": [],
+    "453": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "454": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "455": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "456": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "457": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "458": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "459": [],
+    "460": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "461": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "462": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "463": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "464": [],
+    "465": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "466": [],
+    "467": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "468": [],
+    "469": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "470": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "471": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "472": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "473": [],
+    "474": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "475": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "476": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "477": [],
+    "478": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "479": [],
+    "480": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "481": [],
+    "482": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "483": [],
+    "484": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "485": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "486": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "487": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "488": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "489": [],
+    "490": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "491": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "492": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "493": [],
+    "494": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "495": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "496": [],
+    "497": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "498": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "499": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "500": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "501": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "502": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "503": [],
+    "504": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "505": [],
+    "506": [],
+    "507": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "508": [],
+    "509": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "510": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "511": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "512": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "513": [],
+    "514": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "515": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "516": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "517": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "518": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "519": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "520": [],
+    "521": [],
+    "522": [],
+    "523": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "524": [],
+    "525": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "526": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "527": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "528": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "529": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "530": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "531": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "532": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "533": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "534": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "535": [],
+    "536": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "537": [],
+    "538": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "539": [],
+    "540": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "541": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "542": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "543": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "544": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "545": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "546": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "547": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "548": [],
+    "549": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "550": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "551": [],
+    "552": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "553": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "554": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "555": [],
+    "556": [],
+    "557": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "558": [],
+    "559": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "560": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "561": [],
+    "562": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "563": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "564": [],
+    "565": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "566": [],
+    "567": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "568": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "569": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "570": [],
+    "571": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "572": [],
+    "573": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "574": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "575": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "576": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "577": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "578": [],
+    "579": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "580": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "581": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "582": [],
+    "583": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "584": [],
+    "585": [],
+    "586": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "587": [],
+    "588": [],
+    "589": [],
+    "590": [],
+    "591": [],
+    "592": [],
+    "593": [],
+    "594": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "595": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "596": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "597": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "598": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "599": [],
+    "600": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "601": [],
+    "602": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "603": [],
+    "604": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "605": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "606": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "607": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "608": [],
+    "609": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "610": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "611": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "612": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "613": [],
+    "614": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "615": [],
+    "616": [],
+    "617": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "618": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "619": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "620": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "621": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "622": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "623": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "624": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "625": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "626": [],
+    "627": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "628": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "629": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "630": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "631": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "632": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "633": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "634": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "635": [],
+    "636": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "637": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "638": [],
+    "639": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "640": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "641": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "642": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "643": [],
+    "644": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "645": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "646": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "647": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "648": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "649": [],
+    "650": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "651": [],
+    "652": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "653": [],
+    "654": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "655": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "656": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "657": [],
+    "658": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "659": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "660": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "661": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "662": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "663": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "664": [],
+    "665": [],
+    "666": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "667": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "668": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "669": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "670": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "671": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "672": [],
+    "673": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "674": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "675": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "676": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "677": [],
+    "678": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "679": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "680": [],
+    "681": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "682": [],
+    "683": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "684": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "685": [],
+    "686": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "687": [],
+    "688": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "689": [],
+    "690": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "691": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "692": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "693": [],
+    "694": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "695": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "696": [],
+    "697": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "698": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "699": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "700": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "701": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "702": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "703": [],
+    "704": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "705": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "706": [],
+    "707": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "708": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "709": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "710": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "711": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "712": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "713": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "714": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "715": [],
+    "716": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "717": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "718": [],
+    "719": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "720": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "721": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "722": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "723": [],
+    "724": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "725": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "726": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "727": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "728": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "729": [],
+    "730": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "731": [],
+    "732": [],
+    "733": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "734": [],
+    "735": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "736": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "737": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "738": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "739": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "740": [],
+    "741": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "742": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "743": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "744": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "745": [],
+    "746": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "747": [],
+    "748": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "749": [],
+    "750": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "751": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "752": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "753": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "754": [],
+    "755": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "756": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "757": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "758": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "759": [],
+    "760": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "761": [],
+    "762": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "763": [],
+    "764": [],
+    "765": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "766": [],
+    "767": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "768": [],
+    "769": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "770": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "771": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "772": [],
+    "773": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "774": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "775": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "776": [],
+    "777": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "778": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "779": [],
+    "780": [],
+    "781": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "782": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "783": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "784": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "785": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "786": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "787": [],
+    "788": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "789": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "790": [],
+    "791": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "792": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "793": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "794": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "795": [],
+    "796": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "797": [],
+    "798": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "799": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "800": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "801": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "802": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "803": [],
+    "804": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "805": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "806": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "807": [],
+    "808": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "809": [],
+    "810": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "811": [],
+    "812": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "813": [],
+    "814": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "815": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "816": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "817": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "818": [],
+    "819": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "820": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "821": [],
+    "822": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "823": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "824": [],
+    "825": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "826": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "827": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "828": [],
+    "829": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "830": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "831": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "832": [],
+    "833": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "834": [],
+    "835": [],
+    "836": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "837": [],
+    "838": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "839": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "840": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "841": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "842": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "843": [],
+    "844": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "845": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "846": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "847": [],
+    "848": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "849": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "850": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "851": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "852": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "853": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "854": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "855": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "856": [],
+    "857": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "858": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "859": [],
+    "860": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "861": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "862": [],
+    "863": [],
+    "864": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "865": [],
+    "866": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "867": [],
+    "868": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "869": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "870": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "871": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "872": [],
+    "873": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "874": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "875": [],
+    "876": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "877": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "878": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "879": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "880": [],
+    "881": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "882": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "883": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "884": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "885": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "886": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "887": [],
+    "888": [],
+    "889": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "890": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "891": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "892": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "893": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "894": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "895": [],
+    "896": [],
+    "897": [],
+    "898": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "899": [],
+    "900": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "901": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "902": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "903": [],
+    "904": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "905": [],
+    "906": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "907": [],
+    "908": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "909": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "910": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "911": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "912": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "913": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "914": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "915": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "916": [],
+    "917": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "918": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "919": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "920": [],
+    "921": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "922": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "923": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "924": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "925": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "926": [],
+    "927": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "928": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "929": [],
+    "930": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "931": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "932": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "933": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "934": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "935": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "936": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "937": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "938": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "939": [],
+    "940": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "941": [],
+    "942": [],
+    "943": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "944": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "945": [],
+    "946": [],
+    "947": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "948": [],
+    "949": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "950": [],
+    "951": [],
+    "952": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "953": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "954": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "955": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "956": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "957": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "958": [],
+    "959": [],
+    "960": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "961": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "962": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "963": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "964": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "965": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "966": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "967": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "968": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "969": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "970": [],
+    "971": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "972": [],
+    "973": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "974": [],
+    "975": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "976": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "977": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "978": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "979": [],
+    "980": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "981": [],
+    "982": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "983": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "984": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "985": [],
+    "986": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "987": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "988": [],
+    "989": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "990": []
+}

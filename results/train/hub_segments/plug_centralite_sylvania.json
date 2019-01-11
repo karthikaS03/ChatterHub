@@ -1,0 +1,4853 @@
+{
+    "1": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "2": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "3": [],
+    "4": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "5": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "6": [],
+    "7": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "8": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "9": [],
+    "10": [],
+    "11": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "12": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "13": [],
+    "14": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "15": [],
+    "16": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "17": [],
+    "18": [],
+    "19": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "20": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "21": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "22": [],
+    "23": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "24": [],
+    "25": [],
+    "26": [],
+    "27": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "28": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "29": [],
+    "30": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "31": [],
+    "32": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "33": [],
+    "34": [],
+    "35": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "36": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "37": [],
+    "38": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "39": [],
+    "40": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "41": [],
+    "42": [],
+    "43": [],
+    "44": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "45": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "46": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "47": [],
+    "48": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "49": [],
+    "50": [],
+    "51": [],
+    "52": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "53": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "54": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "55": [],
+    "56": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "57": [],
+    "58": [],
+    "59": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "60": [],
+    "61": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "62": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "63": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "64": [],
+    "65": [],
+    "66": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "67": [],
+    "68": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "69": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "70": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "71": [],
+    "72": [],
+    "73": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "74": [],
+    "75": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "76": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "77": [],
+    "78": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "79": [],
+    "80": [],
+    "81": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "82": [],
+    "83": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "84": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "85": [],
+    "86": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "87": [],
+    "88": [],
+    "89": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "90": [],
+    "91": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "92": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "93": [],
+    "94": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "95": [],
+    "96": [],
+    "97": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "98": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "99": [],
+    "100": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "101": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "102": [],
+    "103": [],
+    "104": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "105": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "106": [],
+    "107": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "108": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "109": [],
+    "110": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "111": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "112": [],
+    "113": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "114": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "115": [],
+    "116": [],
+    "117": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "118": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "119": [],
+    "120": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "121": [],
+    "122": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "123": [],
+    "124": [],
+    "125": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "126": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "127": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "128": [],
+    "129": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "130": [],
+    "131": [],
+    "132": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "133": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "134": [],
+    "135": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "136": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "137": [],
+    "138": [],
+    "139": [],
+    "140": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "141": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "142": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "143": [],
+    "144": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "145": [],
+    "146": [],
+    "147": [],
+    "148": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "149": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "150": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "151": [],
+    "152": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "153": [],
+    "154": [],
+    "155": [],
+    "156": [],
+    "157": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "158": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "159": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "160": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "161": [],
+    "162": [],
+    "163": [],
+    "164": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "165": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "166": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "167": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "168": [],
+    "169": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "170": [],
+    "171": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "172": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "173": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "174": [],
+    "175": [],
+    "176": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "177": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "178": [],
+    "179": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "180": [],
+    "181": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "182": [],
+    "183": [],
+    "184": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "185": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "186": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "187": [],
+    "188": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "189": [],
+    "190": [],
+    "191": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "192": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "193": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "194": [],
+    "195": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "196": [],
+    "197": [],
+    "198": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "199": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "200": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "201": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "202": [],
+    "203": [],
+    "204": [],
+    "205": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "206": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "207": [],
+    "208": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "209": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "210": [],
+    "211": [],
+    "212": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "213": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "214": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "215": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "216": [],
+    "217": [],
+    "218": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "219": [],
+    "220": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "221": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "222": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "223": [],
+    "224": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "225": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "226": [],
+    "227": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "228": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "229": [],
+    "230": [],
+    "231": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "232": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "233": [],
+    "234": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "235": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "236": [],
+    "237": [],
+    "238": [],
+    "239": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "240": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "241": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "242": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "243": [],
+    "244": [],
+    "245": [],
+    "246": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "247": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "248": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "249": [],
+    "250": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "251": [],
+    "252": [],
+    "253": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "254": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "255": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "256": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "257": [],
+    "258": [],
+    "259": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "260": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "261": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "262": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "263": [],
+    "264": [],
+    "265": [],
+    "266": [],
+    "267": [],
+    "268": [],
+    "269": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "270": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "271": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "272": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "273": [],
+    "274": [],
+    "275": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "276": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "277": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "278": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "279": [],
+    "280": [],
+    "281": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "282": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "283": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "284": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "285": [],
+    "286": [],
+    "287": [],
+    "288": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "289": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "290": [],
+    "291": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "292": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "293": [],
+    "294": [],
+    "295": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "296": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "297": [],
+    "298": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "299": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "300": [],
+    "301": [],
+    "302": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "303": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "304": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "305": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "306": [],
+    "307": [],
+    "308": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "309": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "310": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "311": [],
+    "312": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "313": [],
+    "314": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "315": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "316": [],
+    "317": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "318": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "319": [],
+    "320": [],
+    "321": [],
+    "322": [],
+    "323": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "324": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "325": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "326": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "327": [],
+    "328": [],
+    "329": [],
+    "330": [],
+    "331": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "332": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "333": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "334": [],
+    "335": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "336": [],
+    "337": [],
+    "338": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "339": [],
+    "340": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "341": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "342": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "343": [],
+    "344": [],
+    "345": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "346": [],
+    "347": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "348": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "349": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "350": [],
+    "351": [],
+    "352": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "353": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "354": [],
+    "355": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "356": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "357": [],
+    "358": [],
+    "359": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "360": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "361": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "362": [],
+    "363": [],
+    "364": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "365": [],
+    "366": [],
+    "367": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "368": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "369": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "370": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "371": [],
+    "372": [],
+    "373": [],
+    "374": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "375": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "376": [],
+    "377": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "378": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "379": [],
+    "380": [],
+    "381": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "382": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "383": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "384": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "385": [],
+    "386": [],
+    "387": [],
+    "388": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "389": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "390": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "391": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "392": [],
+    "393": [],
+    "394": [],
+    "395": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "396": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "397": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "398": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "399": [],
+    "400": [],
+    "401": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "402": [],
+    "403": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "404": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "405": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "406": [],
+    "407": [],
+    "408": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "409": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "410": [],
+    "411": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "412": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "413": [],
+    "414": [],
+    "415": [],
+    "416": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "417": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "418": [],
+    "419": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "420": [],
+    "421": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "422": [],
+    "423": [],
+    "424": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "425": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "426": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "427": [],
+    "428": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "429": [],
+    "430": [],
+    "431": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "432": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "433": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "434": [],
+    "435": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "436": [],
+    "437": [],
+    "438": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "439": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "440": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "441": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "442": [],
+    "443": [],
+    "444": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "445": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "446": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "447": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "448": [],
+    "449": [],
+    "450": [],
+    "451": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "452": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "453": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "454": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "455": [],
+    "456": [],
+    "457": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "458": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "459": [],
+    "460": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "461": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "462": [],
+    "463": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "464": [],
+    "465": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "466": [],
+    "467": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "468": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "469": [],
+    "470": [],
+    "471": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "472": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "473": [],
+    "474": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "475": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "476": [],
+    "477": [],
+    "478": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "479": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "480": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "481": [],
+    "482": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "483": [],
+    "484": [],
+    "485": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "486": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "487": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "488": [],
+    "489": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "490": [],
+    "491": [],
+    "492": [],
+    "493": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "494": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "495": [],
+    "496": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "497": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "498": [],
+    "499": [],
+    "500": [],
+    "501": [],
+    "502": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "503": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "504": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "505": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "506": [],
+    "507": [],
+    "508": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "509": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "510": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "511": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "512": [],
+    "513": [],
+    "514": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "515": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "516": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "517": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "518": [],
+    "519": [],
+    "520": [],
+    "521": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "522": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "523": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "524": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "525": [],
+    "526": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "527": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "528": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "529": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "530": [],
+    "531": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "532": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "533": [],
+    "534": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "535": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "536": [],
+    "537": [],
+    "538": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "539": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "540": [],
+    "541": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "542": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "543": [],
+    "544": [],
+    "545": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "546": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "547": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "548": [],
+    "549": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "550": [],
+    "551": [],
+    "552": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "553": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "554": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "555": [],
+    "556": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "557": [],
+    "558": [],
+    "559": [],
+    "560": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "561": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "562": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "563": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "564": [],
+    "565": [],
+    "566": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "567": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "568": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "569": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "570": [],
+    "571": [],
+    "572": [],
+    "573": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "574": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "575": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "576": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "577": [],
+    "578": [],
+    "579": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "580": [],
+    "581": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "582": [],
+    "583": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "584": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "585": [],
+    "586": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "587": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "588": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "589": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "590": [],
+    "591": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "592": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "593": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "594": [],
+    "595": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "596": [],
+    "597": [],
+    "598": [],
+    "599": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "600": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "601": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "602": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "603": [],
+    "604": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "605": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "606": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "607": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "608": [],
+    "609": [],
+    "610": [],
+    "611": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "612": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "613": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "614": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "615": [],
+    "616": [],
+    "617": [],
+    "618": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "619": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "620": [],
+    "621": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "622": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "623": [],
+    "624": [],
+    "625": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "626": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "627": [],
+    "628": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "629": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "630": [],
+    "631": [],
+    "632": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "633": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "634": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "635": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "636": [],
+    "637": [],
+    "638": [],
+    "639": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "640": [],
+    "641": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "642": [],
+    "643": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "644": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "645": [],
+    "646": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "647": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "648": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "649": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "650": [],
+    "651": [],
+    "652": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "653": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "654": [],
+    "655": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "656": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "657": [],
+    "658": [],
+    "659": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "660": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "661": [],
+    "662": [],
+    "663": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "664": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "665": [],
+    "666": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "667": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "668": [],
+    "669": [],
+    "670": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "671": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "672": [],
+    "673": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "674": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "675": [],
+    "676": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "677": [],
+    "678": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "679": [],
+    "680": [],
+    "681": [],
+    "682": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "683": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "684": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "685": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "686": [],
+    "687": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "688": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "689": [],
+    "690": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "691": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "692": [],
+    "693": [],
+    "694": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "695": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "696": [],
+    "697": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "698": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "699": [],
+    "700": [],
+    "701": [],
+    "702": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "703": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "704": [],
+    "705": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "706": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "707": [],
+    "708": [],
+    "709": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "710": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "711": [],
+    "712": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "713": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "714": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "715": [],
+    "716": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "717": [],
+    "718": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "719": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "720": [],
+    "721": [],
+    "722": [],
+    "723": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "724": [],
+    "725": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "726": [],
+    "727": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "728": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "729": [],
+    "730": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "731": [],
+    "732": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "733": [],
+    "734": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "735": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "736": [],
+    "737": [],
+    "738": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "739": [],
+    "740": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "741": [],
+    "742": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "743": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "744": [],
+    "745": [],
+    "746": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "747": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "748": [],
+    "749": [],
+    "750": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "751": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "752": [],
+    "753": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "754": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "755": [],
+    "756": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "757": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "758": [],
+    "759": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "760": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "761": [],
+    "762": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "763": [],
+    "764": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "765": [],
+    "766": [],
+    "767": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "768": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "769": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "770": [],
+    "771": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "772": [],
+    "773": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "774": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "775": [],
+    "776": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "777": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "778": [],
+    "779": [],
+    "780": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "781": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "782": [],
+    "783": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "784": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "785": [],
+    "786": [],
+    "787": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "788": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "789": [],
+    "790": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "791": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "792": [],
+    "793": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "794": [],
+    "795": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "796": [],
+    "797": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "798": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "799": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "800": [],
+    "801": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "802": [],
+    "803": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "804": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "805": [],
+    "806": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "807": [],
+    "808": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "809": [],
+    "810": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "811": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "812": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "813": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "814": [],
+    "815": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "816": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "817": [],
+    "818": [],
+    "819": [],
+    "820": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "821": [],
+    "822": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "823": [],
+    "824": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "825": [],
+    "826": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "827": [],
+    "828": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "829": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "830": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "831": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "832": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "833": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "834": [],
+    "835": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "836": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "837": [],
+    "838": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "839": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "840": [],
+    "841": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "842": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "843": [],
+    "844": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "845": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "846": [],
+    "847": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "848": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "849": [],
+    "850": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "851": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "852": [],
+    "853": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "854": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "855": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "856": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "857": [],
+    "858": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "859": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "860": [],
+    "861": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "862": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "863": [],
+    "864": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "865": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "866": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "867": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "868": [],
+    "869": [],
+    "870": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "871": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "872": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "873": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "874": [],
+    "875": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "876": [],
+    "877": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "878": [],
+    "879": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "880": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "881": [],
+    "882": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "883": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "884": [],
+    "885": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "886": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "887": [],
+    "888": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "889": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "890": [],
+    "891": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "892": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "893": [],
+    "894": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "895": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "896": [],
+    "897": [],
+    "898": [],
+    "899": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "900": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "901": [],
+    "902": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "903": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "904": [],
+    "905": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "906": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "907": [],
+    "908": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "909": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "910": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "911": [],
+    "912": [],
+    "913": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "914": [],
+    "915": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "916": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "917": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "918": [],
+    "919": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "920": [],
+    "921": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "922": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "923": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "924": [],
+    "925": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "926": [],
+    "927": [],
+    "928": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "929": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "930": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "931": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "932": [],
+    "933": [],
+    "934": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "935": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "936": [],
+    "937": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "938": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "939": [],
+    "940": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "941": [],
+    "942": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "943": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "944": [
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "Centralite_Smart_Outlet",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "945": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "946": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ]
+}

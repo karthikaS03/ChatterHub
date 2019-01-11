@@ -1,0 +1,72 @@
+{
+    "1": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "open"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "open"
+        }
+    ],
+    "2": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "closed"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "closed"
+        }
+    ],
+    "3": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "open"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "open"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "closed"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "closed"
+        }
+    ],
+    "4": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "open"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "open"
+        }
+    ],
+    "5": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "status",
+            "val": "closed"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "contact",
+            "val": "closed"
+        }
+    ]
+}

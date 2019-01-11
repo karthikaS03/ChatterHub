@@ -1,0 +1,52 @@
+{
+    "1": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "2": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "3": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "4": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "5": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ]
+}
