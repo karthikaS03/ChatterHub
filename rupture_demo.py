@@ -1,14 +1,22 @@
 import matplotlib.pyplot as plt
 import ruptures as rpt
 import numpy as np 
-
 import matplotlib.pyplot as plt
 import ruptures as rpt
 
 
+def segment_packets(packet_time_deltas):
+   if len(packet_time_deltas)>1:
+      signal = np.array([[x] for x in packet_time_deltas])
+      algo = rpt.Pelt(model="rbf",jump=1).fit(signal)
+      result = algo.predict(pen=0.1)
+      
+      #rpt.display(signal, result, result)
+      #plt.show()
+      return result[:-1]
+   return [0]
 
-
-
+'''
 # generate signal
 n_samples, dim, sigma = 50, 1, 1
 n_bkps = 3 # number of breakpoints
@@ -53,7 +61,7 @@ result = algo.predict(pen=1)
 result = [0]+result
 print(result)
 
-result_frames = [frames[result[i]:result[i+1]] for i in range(len(result)-1)]
+
 for frame in result_frames:
     print(frame)
 
@@ -63,7 +71,7 @@ rpt.display(signal, bkps, result)
 plt.show()
 #print(signal)
 
-
+'''
 
 
 '''
