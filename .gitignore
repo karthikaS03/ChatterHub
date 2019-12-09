@@ -1,4 +1,12 @@
 files/*.pcap
 files/*
 files/*/*
+
+*.npy
+*.h5
+*.json 
+
+.ipynb_checkpoints
+
 .DS_Store
+
