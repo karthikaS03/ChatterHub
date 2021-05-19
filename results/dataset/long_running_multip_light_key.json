@@ -1,0 +1,154 @@
+[
+    {
+        "packet_sequence": "342 1185",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "424 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "559 420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "425 113 437 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "435 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "435 113 132 111 146 120 223 103 535 141 426 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "304 113 425 113 756 113 113 427 113 426 113 426 113",
+        "sequence_label": "Multipurpose_Sensor_acceleration_inactive Multipurpose_Sensor_acceleration_active Multipurpose_Sensor_threeAxis_XXX SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "425 113 755 113 113 426 113 427 113 428 113",
+        "sequence_label": "Multipurpose_Sensor_acceleration_active Multipurpose_Sensor_threeAxis_XXX"
+    },
+    {
+        "packet_sequence": "756 113 113 426 113 425 113 426 113",
+        "sequence_label": "Multipurpose_Sensor_acceleration_inactive"
+    },
+    {
+        "packet_sequence": "425 113 342 1185",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "424 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "425 113 754 113 113 427 113 428 113 427 113 424 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX Multipurpose_Sensor_acceleration_inactive Multipurpose_Sensor_acceleration_active Multipurpose_Sensor_threeAxis_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 535 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "424 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "424 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "424 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "342 1185",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 113 419 113 417 113 418 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "743 113 113",
+        "sequence_label": "Multipurpose_Sensor_contact_open Multipurpose_Sensor_status_open"
+    },
+    {
+        "packet_sequence": "424 113",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 535 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "745 113 113 420 113 342 1185 743 113",
+        "sequence_label": "Multipurpose_Sensor_contact_open Multipurpose_Sensor_contact_closed Multipurpose_Sensor_status_open Multipurpose_Sensor_status_closed"
+    },
+    {
+        "packet_sequence": "113 423",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "113 146 113 166 113 165 113 276 113 744 113",
+        "sequence_label": "Multipurpose_Sensor_contact_closed Multipurpose_Sensor_status_closed"
+    },
+    {
+        "packet_sequence": "113 132 111 146 120 223 103 535",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "141 418",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 739 113 113 342 1185 436",
+        "sequence_label": "Multipurpose_Sensor_contact_open OSRAM_LIGHTIFY_Dimming_Switch_button_pushed Multipurpose_Sensor_status_open"
+    },
+    {
+        "packet_sequence": "113 424",
+        "sequence_label": "Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "113 132 111 146 120 223 103 535 141 285 113 418 113 419 113 415 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "packet_sequence": "756 113 113 427 113 427 113 428 113",
+        "sequence_label": "Multipurpose_Sensor_acceleration_active Multipurpose_Sensor_threeAxis_XXX Multipurpose_Sensor_acceleration_inactive"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "755 113 113 429 113 428 113 427 113",
+        "sequence_label": "Multipurpose_Sensor_acceleration_active Multipurpose_Sensor_threeAxis_XXX Multipurpose_Sensor_acceleration_inactive"
+    },
+    {
+        "packet_sequence": "121 113 425 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "342 1185",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "757 113 113 427 113 426 113 428 113",
+        "sequence_label": "Multipurpose_Sensor_acceleration_active Multipurpose_Sensor_threeAxis_XXX Multipurpose_Sensor_acceleration_inactive"
+    },
+    {
+        "packet_sequence": "424 113 759 113 113 429",
+        "sequence_label": "Multipurpose_Sensor_acceleration_active Multipurpose_Sensor_threeAxis_XXX Multipurpose_Sensor_temperature_XXX"
+    },
+    {
+        "packet_sequence": "113 426 113 425",
+        "sequence_label": "Multipurpose_Sensor_acceleration_inactive"
+    },
+    {
+        "packet_sequence": "113 425",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 424 113",
+        "sequence_label": ""
+    }
+]

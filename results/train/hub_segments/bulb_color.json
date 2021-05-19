@@ -1,0 +1,43 @@
+{
+    "1": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "2": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "3": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "4": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ],
+    "5": [],
+    "6": [
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "colorTemperature",
+            "val": "XXX"
+        }
+    ]
+}

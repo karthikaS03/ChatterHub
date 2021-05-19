@@ -1,0 +1,26 @@
+[
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 427 113 304 113 425",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "113 304 113 426",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "113 132 111 146 120 223 103 535",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "141 304 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    }
+]

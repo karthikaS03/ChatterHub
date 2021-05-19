@@ -1,0 +1,235 @@
+{
+    "1": [
+        {
+            "frame_number": "3",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:08:38.528574",
+            "frame_time_epoch": "1541030918.528574000",
+            "frame_length": "417",
+            "frame_modlen": "417.0",
+            "packet_length": "403",
+            "first_time_delta": 0.0,
+            "prev_time_delta": 0.0,
+            "offset_time": 0.0,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "4",
+            "packet_source": "server",
+            "frame_time": "2018-11-01 00:08:38.557327",
+            "frame_time_epoch": "1541030918.557327000",
+            "frame_length": "113",
+            "frame_modlen": "112.99999999999999",
+            "packet_length": "99",
+            "first_time_delta": 0.028753,
+            "prev_time_delta": 0.028753,
+            "offset_time": 0.028753,
+            "sequence_number": -1
+        }
+    ],
+    "2": [
+        {
+            "frame_number": "8",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:09:05.350032",
+            "frame_time_epoch": "1541030945.350032000",
+            "frame_length": "417",
+            "frame_modlen": "417.0",
+            "packet_length": "403",
+            "first_time_delta": 26.821458,
+            "prev_time_delta": 26.792705,
+            "offset_time": 0.0,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "9",
+            "packet_source": "server",
+            "frame_time": "2018-11-01 00:09:05.378846",
+            "frame_time_epoch": "1541030945.378846000",
+            "frame_length": "113",
+            "frame_modlen": "112.99999999999999",
+            "packet_length": "99",
+            "first_time_delta": 26.850272,
+            "prev_time_delta": 0.028814,
+            "offset_time": 0.028814,
+            "sequence_number": -1
+        }
+    ],
+    "3": [
+        {
+            "frame_number": "11",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:09:27.274572",
+            "frame_time_epoch": "1541030967.274572000",
+            "frame_length": "559",
+            "frame_modlen": "559.0",
+            "packet_length": "545",
+            "first_time_delta": 48.745998,
+            "prev_time_delta": 21.895726,
+            "offset_time": 0.0,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "15",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:09:37.843267",
+            "frame_time_epoch": "1541030977.843267000",
+            "frame_length": "417",
+            "frame_modlen": "417.0",
+            "packet_length": "403",
+            "first_time_delta": 59.314693,
+            "prev_time_delta": 10.568695,
+            "offset_time": 10.568695,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "17",
+            "packet_source": "server",
+            "frame_time": "2018-11-01 00:09:37.871940",
+            "frame_time_epoch": "1541030977.871940000",
+            "frame_length": "113",
+            "frame_modlen": "112.99999999999999",
+            "packet_length": "99",
+            "first_time_delta": 59.343366,
+            "prev_time_delta": 0.028673,
+            "offset_time": 10.597368,
+            "sequence_number": -1
+        }
+    ],
+    "4": [
+        {
+            "frame_number": "21",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:10:08.294139",
+            "frame_time_epoch": "1541031008.294139000",
+            "frame_length": "416",
+            "frame_modlen": "416.0",
+            "packet_length": "402",
+            "first_time_delta": 89.765565,
+            "prev_time_delta": 30.422199,
+            "offset_time": 0.0,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "22",
+            "packet_source": "server",
+            "frame_time": "2018-11-01 00:10:08.323430",
+            "frame_time_epoch": "1541031008.323430000",
+            "frame_length": "113",
+            "frame_modlen": "112.99999999999999",
+            "packet_length": "99",
+            "first_time_delta": 89.794856,
+            "prev_time_delta": 0.029291,
+            "offset_time": 0.029291,
+            "sequence_number": -1
+        }
+    ],
+    "5": [
+        {
+            "frame_number": "36",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:10:42.256221",
+            "frame_time_epoch": "1541031042.256221000",
+            "frame_length": "417",
+            "frame_modlen": "417.0",
+            "packet_length": "403",
+            "first_time_delta": 123.727647,
+            "prev_time_delta": 2.944783,
+            "offset_time": 2.944783,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "37",
+            "packet_source": "server",
+            "frame_time": "2018-11-01 00:10:42.285197",
+            "frame_time_epoch": "1541031042.285197000",
+            "frame_length": "113",
+            "frame_modlen": "112.99999999999999",
+            "packet_length": "99",
+            "first_time_delta": 123.756623,
+            "prev_time_delta": 0.028976,
+            "offset_time": 2.973759,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "41",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:10:56.224229",
+            "frame_time_epoch": "1541031056.224229000",
+            "frame_length": "419",
+            "frame_modlen": "419.00000000000006",
+            "packet_length": "405",
+            "first_time_delta": 137.695655,
+            "prev_time_delta": 13.939032,
+            "offset_time": 16.912791,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "42",
+            "packet_source": "server",
+            "frame_time": "2018-11-01 00:10:56.253017",
+            "frame_time_epoch": "1541031056.253017000",
+            "frame_length": "113",
+            "frame_modlen": "112.99999999999999",
+            "packet_length": "99",
+            "first_time_delta": 137.724443,
+            "prev_time_delta": 0.028788,
+            "offset_time": 16.941579,
+            "sequence_number": -1
+        }
+    ],
+    "6": [
+        {
+            "frame_number": "46",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:11:17.082322",
+            "frame_time_epoch": "1541031077.082322000",
+            "frame_length": "417",
+            "frame_modlen": "417.0",
+            "packet_length": "403",
+            "first_time_delta": 158.553748,
+            "prev_time_delta": 20.829305,
+            "offset_time": 0.0,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "47",
+            "packet_source": "server",
+            "frame_time": "2018-11-01 00:11:17.111258",
+            "frame_time_epoch": "1541031077.111258000",
+            "frame_length": "113",
+            "frame_modlen": "112.99999999999999",
+            "packet_length": "99",
+            "first_time_delta": 158.582684,
+            "prev_time_delta": 0.028936,
+            "offset_time": 0.028936,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "49",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:11:21.456016",
+            "frame_time_epoch": "1541031081.456016000",
+            "frame_length": "342",
+            "frame_modlen": "342.0",
+            "packet_length": "328",
+            "first_time_delta": 162.927442,
+            "prev_time_delta": 4.344758,
+            "offset_time": 4.373694,
+            "sequence_number": -1
+        },
+        {
+            "frame_number": "52",
+            "packet_source": "hub",
+            "frame_time": "2018-11-01 00:11:21.498377",
+            "frame_time_epoch": "1541031081.498377000",
+            "frame_length": "1185",
+            "frame_modlen": "1185.0",
+            "packet_length": "1171",
+            "first_time_delta": 162.969803,
+            "prev_time_delta": 0.042361,
+            "offset_time": 4.416055,
+            "sequence_number": -1
+        }
+    ]
+}

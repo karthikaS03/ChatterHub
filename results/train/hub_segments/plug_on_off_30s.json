@@ -1,0 +1,44 @@
+{
+    "1": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "2": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "3": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "4": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "5": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "on"
+        }
+    ],
+    "6": [
+        {
+            "device": "SYLVANIA_SMART+_Smart_Plug",
+            "event": "switch",
+            "val": "off"
+        }
+    ]
+}

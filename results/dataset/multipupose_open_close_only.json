@@ -1,0 +1,22 @@
+[
+    {
+        "packet_sequence": "745 113 113 342 1185",
+        "sequence_label": "Multipurpose_Sensor_status_open Multipurpose_Sensor_contact_open"
+    },
+    {
+        "packet_sequence": "746 113 113",
+        "sequence_label": "Multipurpose_Sensor_status_closed Multipurpose_Sensor_contact_closed"
+    },
+    {
+        "packet_sequence": "743 113 113 743 113",
+        "sequence_label": "Multipurpose_Sensor_contact_closed Multipurpose_Sensor_status_open Multipurpose_Sensor_status_closed Multipurpose_Sensor_contact_open"
+    },
+    {
+        "packet_sequence": "113 742 113",
+        "sequence_label": "Multipurpose_Sensor_status_open Multipurpose_Sensor_contact_open"
+    },
+    {
+        "packet_sequence": "113 743 113 113",
+        "sequence_label": "Multipurpose_Sensor_status_closed Multipurpose_Sensor_contact_closed"
+    }
+]

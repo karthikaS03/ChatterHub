@@ -1,0 +1,38 @@
+[
+    {
+        "packet_sequence": "438 113 285 113 419 419 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on OSRAM_LIGHTIFY_Dimming_Switch_button_pushed SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "439 113 285 113 419 113 772 113 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off OSRAM_LIGHTIFY_Dimming_Switch_button_pushed"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "435 113 285 113 306 113 420 769 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "342 1185 132 111 146 120 223 103 535 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "438 113 285 113 419 420 113 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off OSRAM_LIGHTIFY_Dimming_Switch_button_pushed SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "438 113 285 113 772 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on OSRAM_LIGHTIFY_Dimming_Switch_button_pushed SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "436 113 285 113 306 113 419 113 120 337 157 113 113 120",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    },
+    {
+        "packet_sequence": "113 436 113 285 113 306 113 420 113",
+        "sequence_label": "OSRAM_LIGHTIFY_Dimming_Switch_button_held"
+    }
+]

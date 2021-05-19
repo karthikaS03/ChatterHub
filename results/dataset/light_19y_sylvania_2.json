@@ -1,0 +1,3962 @@
+[
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "559 285 113 418 420 113 113 414 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 427 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 421 113 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "371 351 458 626 96 180 191 563 792 643 305 781 717 132 104 270 659 96 141 141 657 307 895 113 655 136 417 113 136 312 229 312 229 416 113 691 136",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "469 571 612 507 164 100 1214 572 612 576 100",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "1250 597 100 307 655 895 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "626 581 563 337 783 581 837 115 545 659 412 355 544 371 637 581 623 626 581 351 581 506 643 172 773 141 96 822 115 141 337 954 100 337 337 802 115 660 581 275 895 307 655 113 136 355 136 418 113 1325 232 846 487 1333 572 612 576 100 416 113 691",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "1535 469 100",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 655 113 895 416 113 691 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113 871 631",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 419 416 113 113 419 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113 730 282 186 186",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "101 312 470 96 180 191 312 229 307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 415 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 419 113 420 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "101 99 307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 612 576 100 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 744 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 415 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 101 99 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 769 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "1388 903",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 286",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 419 420 113 113 416 113 417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 419 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 418 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 420 771 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 419 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "427 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "559 285",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 420 770 113 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "306 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 770 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 419 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 743 415 113 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 132",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "111 146 120 223 103 536 141 286 113 419 420 113 113 416 113 417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 421 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 771 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "559 285",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 419 113 769 113 113 416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 418 768 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 743 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 419 113 113 415 113 417 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 286",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 419 419 113 113 416 113 415 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "427 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 770 113 113 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 414 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 774 416 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 286",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 418 420 113 113 416 113 416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 420 420 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "306 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "415 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "424 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 418 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 743 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 286",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 419 420 113 113 416 113 417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 772 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "424 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 772 415 113 113 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 418 420 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 424 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 415 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 285",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 418 420 113 113 414 113 416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "415 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "421 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 285 113 773 415 113 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 1121 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "559 286",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 418 419 113 113 416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 415 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 419 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "121 307",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 285 113 418 419 113 113 415 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "284 113 741 113 113 415 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 771 415 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "415 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "559 286 113 419 420 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 769 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 769 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 772 416 113 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 285",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 418 113 419 113 416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "415 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "306 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "415 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 307 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "1121 113 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 419 768 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 764 113 113 1113 113 113 113 113 415 113 415 113 764",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 765 113 113 416 113 113 765 113 764 113 113 415 113 113 765",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 764 113 113 765 113 113 765 113 113 764 113 113 415 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "415 113 767 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "415 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 772 416 113 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 286 465 113 769 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 415 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 132 111 146 120 223 103 536 141 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 113 770 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 415 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 415 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "559 286 113 1121 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 113 419 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 424 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 415 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 415 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "427 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 286 113 418 419 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113 305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 772 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 285 113 418 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 415 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 418 768 113 113 113 416 113 559",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 743 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 421 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "418 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 420 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 769 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "421 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "427 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 1093 113 113 113 113 415 113 559",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 771 416 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 772 416 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 417",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 427 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 416 113 113 420 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 772 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 419 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 424 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 285 113 419 770 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "439 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "427 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 285 113 419 420 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 415 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 421 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 424 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 771 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 415 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 307",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 418 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 418 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 419 420 113 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 744 416 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 769 113 113 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 427 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 285 113 418 770 113 113 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 416 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "304 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "425 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "286 113 419 769 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 418 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 419 770 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 415 113 417 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "439 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "285 113 773 417 113 113 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "286 113 418 419 113 113 416 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "559 307 113 417 113 415 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "121 121",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "307 113 419 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "305 113 426 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "304 113 426 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 305",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "113 425 113",
+        "sequence_label": ""
+    }
+]

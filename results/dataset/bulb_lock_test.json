@@ -1,0 +1,46 @@
+[
+    {
+        "packet_sequence": "285 113 417 419 113 113 415 113 415 113 145 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on Kwikset_10-Button_Deadbolt_lock_unlocked SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "129 113 138 113 121 113 146 113 145 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_locked"
+    },
+    {
+        "packet_sequence": "122 113 129 113 138 113 121 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "146 113 122 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 416 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_off SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "284 113 771 113 417 113 113 415 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_unlocked"
+    },
+    {
+        "packet_sequence": "145 113 129 113 138 113 121 113 146 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "122 113 304 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_switch_on SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "424 113 285 113 741 113 113 415 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "416 113 342 1185",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_colorTemperature_XXX"
+    },
+    {
+        "packet_sequence": "305 113 425 113",
+        "sequence_label": "Kwikset_10-Button_Deadbolt_lock_locked"
+    }
+]

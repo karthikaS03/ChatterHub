@@ -1,0 +1,142 @@
+{
+    "1": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "active"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "inactive"
+        }
+    ],
+    "2": [],
+    "3": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "active"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "inactive"
+        }
+    ],
+    "4": [],
+    "5": [],
+    "6": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "active"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "inactive"
+        }
+    ],
+    "7": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "active"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "threeAxis",
+            "val": "XXX"
+        },
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "temperature",
+            "val": "XXX"
+        }
+    ],
+    "8": [
+        {
+            "device": "Multipurpose_Sensor",
+            "event": "acceleration",
+            "val": "inactive"
+        }
+    ],
+    "9": [],
+    "10": []
+}

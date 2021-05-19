@@ -1,0 +1,123 @@
+{
+    "1": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "2": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        }
+    ],
+    "3": [],
+    "4": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "5": [],
+    "6": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "off"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "7": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "pushed"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "switch",
+            "val": "on"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        },
+        {
+            "device": "SYLVANIA_Smart_10Y_A19_TW",
+            "event": "level",
+            "val": "XXX"
+        }
+    ],
+    "8": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ],
+    "9": [
+        {
+            "device": "OSRAM_LIGHTIFY_Dimming_Switch",
+            "event": "button",
+            "val": "held"
+        }
+    ]
+}

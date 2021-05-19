@@ -1,0 +1,3786 @@
+[
+    {
+        "packet_sequence": "284 113 420 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 113 420 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 284 113 740 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 418 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 417 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 285 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "282 113 738 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 417 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 741 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 113 419 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 418 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "121 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 740 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 742 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 113 418 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 767 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 145 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 768 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 416 417 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 284 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 284 113 417 113 419 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 740 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 742 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 772 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 113 418 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "145 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 420 421 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 743 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 744 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 121 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 772 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 285 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 744 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113 132 111 146 120 223 103 536 141 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 740 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "165 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 113 419 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "559 132",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "111 146",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "120 223",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 420 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 773 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 416 417 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 742 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 744 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "285 113 418 113 420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 420 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 743 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 113 419 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "284 113 419 113 420 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 419 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 743 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113 114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 419 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 419 419 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 284 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 768 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 113 419 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 132 111 146 120 223 103 536 141 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 284 113 772 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 285 113 420 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113 559",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 113 421 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "285 113 419 113 420 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 285 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 420 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 420 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "113 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 113 419 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 284 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 283 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 132 111 146 120 223 103 536 141 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 420 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "113 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 773 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 741 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 420 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "285 113 744 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "113 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 742 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 740 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 121 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 743 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "113 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 283 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113 145 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 741 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "285 113 417 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "128 113 122 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "113 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 768 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 121 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "285 113 770 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 417 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 113 419 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "113 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 740 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 419 419 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 743 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "113 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 743 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 113 418 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 122 113 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 121 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 770 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 420 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "559 145",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 114 113 284 113 741 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 420 113 113 132 111 146 120 223 103 536 141",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 113 419 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "121 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 771 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 113 419 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 113 420 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 283 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 769 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 113 419 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 559",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "128 113 114 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 113 419 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 113 419 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113 132 111 146 120 223 103 536 141 284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 741 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 420 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 283 113 419 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113 121 113 284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 743 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 771 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 744 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "559 145",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 114 113 284 113 772 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 420 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 283 113 417 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 418 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 145 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113 121 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 283 113 415 417 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "282 113 738 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "114 113 283 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 416 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 770 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "114 113 284 113 771 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "559 145",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "113 114 113 284 113 419 419 113 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 421 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "114 113 284 113 418 113 419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "283 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141 114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 114 113 284 113 741 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "284 113 419 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "120 337 157 113 113 120 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "145 113 285 113 419 420 113 113 114 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 418 419 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 128 113 122 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "285 113 418 420 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 536 141",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "284 113 419 419 113 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "145 113 284 113 742 113 113 114 113 121 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_on"
+    },
+    {
+        "packet_sequence": "283 113 742 113 113",
+        "sequence_label": "Centralite_Smart_Outlet_switch_off"
+    },
+    {
+        "packet_sequence": "114 113 285 113 744 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "113 132 111 146 120 223 103 536 141 284 113 419 113 420 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    }
+]

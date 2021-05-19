@@ -1,0 +1,26 @@
+[
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "417 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "559 417 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "416 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    },
+    {
+        "packet_sequence": "417 113 419 113",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_on"
+    },
+    {
+        "packet_sequence": "417 113 342 1185",
+        "sequence_label": "SYLVANIA_SMART+_Smart_Plug_switch_off"
+    }
+]

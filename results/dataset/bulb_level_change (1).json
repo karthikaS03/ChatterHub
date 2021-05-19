@@ -1,0 +1,42 @@
+[
+    {
+        "packet_sequence": "306 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "307 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 417 113 416 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "306 113 417 113 417 113",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "419 113",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "132 111 146 120 223 103 535 141 306 113 417",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 416",
+        "sequence_label": ""
+    },
+    {
+        "packet_sequence": "113 306 113 417",
+        "sequence_label": "SYLVANIA_Smart_10Y_A19_TW_level_XXX"
+    },
+    {
+        "packet_sequence": "113 417 113",
+        "sequence_label": ""
+    }
+]
